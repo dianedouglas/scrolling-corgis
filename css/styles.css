@@ -34,3 +34,10 @@
     background-repeat: no-repeat;
     text-align: center
 }
+#slide-3 .bcg {
+    background-image:url('../img/slide2.jpg');
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    text-align: center
+}
