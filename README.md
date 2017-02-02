@@ -1,6 +1,6 @@
-# _Scrolling Website_
+# _Parallax Background Scrolling Corgi Pictures Demo_
 
-#### _A demo of a website with a scrolling background using multiple full page images. (of corgis!)_
+#### _A demo of a scrolling parallax background site using multiple full page images. (of corgis!)_
 
 [Try it on gh-pages!](https://dianedouglas.github.io/scrolling-corgis/)
 
